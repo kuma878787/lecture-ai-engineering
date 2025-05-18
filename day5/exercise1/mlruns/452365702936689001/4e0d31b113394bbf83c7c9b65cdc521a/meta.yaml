@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumak/AIengineering/lecture-ai-engineering/day5/%E6%BC%94%E7%BF%921/mlruns/452365702936689001/4e0d31b113394bbf83c7c9b65cdc521a/artifacts
+end_time: 1747566676045
+entry_point_name: ''
+experiment_id: '452365702936689001'
+lifecycle_stage: active
+run_id: 4e0d31b113394bbf83c7c9b65cdc521a
+run_name: worried-midge-492
+run_uuid: 4e0d31b113394bbf83c7c9b65cdc521a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747566671692
+status: 3
+tags: []
+user_id: kumak

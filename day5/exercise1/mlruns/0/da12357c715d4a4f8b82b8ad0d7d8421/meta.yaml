@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumak/AIengineering/lecture-ai-engineering/day5/%E6%BC%94%E7%BF%921/mlruns/0/da12357c715d4a4f8b82b8ad0d7d8421/artifacts
+end_time: 1747566258227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da12357c715d4a4f8b82b8ad0d7d8421
+run_name: thoughtful-loon-229
+run_uuid: da12357c715d4a4f8b82b8ad0d7d8421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747566251151
+status: 3
+tags: []
+user_id: kumak

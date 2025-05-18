@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumak/AIengineering/lecture-ai-engineering/day5/%E6%BC%94%E7%BF%921/mlruns/452365702936689001/ddafe33b608a4349b6419868cc8c2ecf/artifacts
+end_time: 1747566654384
+entry_point_name: ''
+experiment_id: '452365702936689001'
+lifecycle_stage: active
+run_id: ddafe33b608a4349b6419868cc8c2ecf
+run_name: shivering-shad-958
+run_uuid: ddafe33b608a4349b6419868cc8c2ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747566649820
+status: 3
+tags: []
+user_id: kumak

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumak/AIengineering/lecture-ai-engineering/day5/%E6%BC%94%E7%BF%921/mlruns/452365702936689001/c8ed29b10e0e4142aa75f8bf13b2c1b7/artifacts
+end_time: 1747566666013
+entry_point_name: ''
+experiment_id: '452365702936689001'
+lifecycle_stage: active
+run_id: c8ed29b10e0e4142aa75f8bf13b2c1b7
+run_name: kindly-wren-807
+run_uuid: c8ed29b10e0e4142aa75f8bf13b2c1b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747566661714
+status: 3
+tags: []
+user_id: kumak
