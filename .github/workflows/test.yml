@@ -26,4 +26,5 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest day5/演習3/tests/test_model.py
+          cd day5
+          pytest 演習3/tests/test_model.py
